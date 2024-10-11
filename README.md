@@ -1,5 +1,5 @@
 # Checkers-Engine-Proj
-A Small Incomplete Checkers Engine with Jumps, King Conversions, and Suggested Moves
+A Small Checkers Engine with Jumps, King Conversions, and Suggested Moves
 
 
 Game Rules:
@@ -7,4 +7,5 @@ Game Rules:
 - Captures are made when a player jumps another player's piece in a diagonal pattern.
 - King Conversions are made when a player's piece reaches the other side. King conversion is indicated by an uppercase letter.
 - Game Ends when players have either 0 pieces or exceeded 30 moves in the case of stalemate prevention.
+- All pieces, including base pieces, can move backward and forward in a King Moveset fashion.
 
