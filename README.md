@@ -41,10 +41,10 @@ Notes: I definitely should combine the move and capture piece functions when I h
 
 
 Bibliography
-[1]CodeScope, “Learn Rust and Build a Chesscomputer Ep.1: Board representation,” YouTube, Jul. 17, 2022. https://www.youtube.com/watch?v=0QaELGCt9WU (accessed Aug. 29, 2024).
-[2]J. Kreuzer, “Checker Bitboard Tutorial,” 3dkingdoms.com, 2024. https://3dkingdoms.com/checkers/bitboards.htm#bitboard (accessed Oct. 10, 2024).
-[3]“Writing a BitBoard in Rust Pt. 1: The Basics,” Nereuxofficials old Blog, 2021. https://nereuxofficial.github.io/posts/bitboard-rust/ (accessed Sep. 13, 2024).
-[4]“Board Representation - Chessprogramming wiki,” www.chessprogramming.org, Jan. 28, 2020. https://www.chessprogramming.org/Board_Representation (accessed Oct. 05, 2024).
-[5]The “Bitboard Game Help,” The Rust Programming Language Forum, Mar. 25, 2019. https://users.rust-lang.org/t/bitboard-game-help/26643/2 (accessed Oct. 09, 2024).
-[6]“Flipping Mirroring and Rotating - Chessprogramming wiki,” Chessprogramming.org, 2016. https://www.chessprogramming.org/Flipping_Mirroring_and_Rotating (accessed Oct. 09, 2024).
-[7]“The Rust Programming Language - The Rust Programming Language,” doc.rust-lang.org. https://doc.rust-lang.org/book/title-page.html (accessed Sep. 18, 2024).
+- [1]CodeScope, “Learn Rust and Build a Chesscomputer Ep.1: Board representation,” YouTube, Jul. 17, 2022. https://www.youtube.com/watch?v=0QaELGCt9WU (accessed Aug. 29, 2024).
+- [2]J. Kreuzer, “Checker Bitboard Tutorial,” 3dkingdoms.com, 2024. https://3dkingdoms.com/checkers/bitboards.htm#bitboard (accessed Oct. 10, 2024).
+- [3]“Writing a BitBoard in Rust Pt. 1: The Basics,” Nereuxofficials old Blog, 2021. https://nereuxofficial.github.io/posts/bitboard-rust/ (accessed Sep. 13, 2024).
+- [4]“Board Representation - Chessprogramming wiki,” www.chessprogramming.org, Jan. 28, 2020. https://www.chessprogramming.org/Board_Representation (accessed Oct. 05, 2024).
+- [5]The “Bitboard Game Help,” The Rust Programming Language Forum, Mar. 25, 2019. https://users.rust-lang.org/t/bitboard-game-help/26643/2 (accessed Oct. 09, 2024).
+- [6]“Flipping Mirroring and Rotating - Chessprogramming wiki,” Chessprogramming.org, 2016. https://www.chessprogramming.org/Flipping_Mirroring_and_Rotating (accessed Oct. 09, 2024).
+- [7]“The Rust Programming Language - The Rust Programming Language,” doc.rust-lang.org. https://doc.rust-lang.org/book/title-page.html (accessed Sep. 18, 2024).
