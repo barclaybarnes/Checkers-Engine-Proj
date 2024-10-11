@@ -109,11 +109,11 @@ fn is_legal_move(player: u64, king: u64, opponent: u64, is_player1: bool) -> Vec
         let from_mask = 1 << from; // Create a bitmask for the 'from' position
         if player & from_mask != 0 { // Check if the player has a piece at the 'from' position
             let directions = if king & from_mask != 0 {
-                vec![-9, -7, 7, 9] // King can move in all four diagonal directions
+                vec![-9, -7, 7, 9] 
             } else if is_player1 {
-                vec![-9, -7] // Player 1 can move in the upward diagonal directions
+                vec![-9, -7] // Player 1 can move in the upward and downward diagonal directions
             } else {
-                vec![7, 9] // Player 2 can move in the downward diagonal directions
+                vec![7, 9] // Player 2 can move in the downward and upward diagonal directions
             };
             for &dir in &directions {
                 let to = from as isize + dir;
